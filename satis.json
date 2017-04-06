@@ -100,10 +100,6 @@
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/tsconfig.json"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
         },
         {
@@ -168,7 +164,6 @@
         "minutephp\/site": "*",
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
-        "minutephp\/tsconfig.json": "*",
         "minutephp\/user": "*",
         "minutephp\/vultr": "*",
         "minutephp\/wallet": "*",
